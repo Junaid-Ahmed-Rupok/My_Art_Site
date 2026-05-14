@@ -1,0 +1,12 @@
+# requirements.txt
+# Junaid Ahmed Rupok — কবিতার সংকলন
+#
+# This project is built with pure HTML, CSS, and JavaScript.
+# It has zero Python or third-party dependencies.
+#
+# External resources are loaded via CDN at runtime:
+#   - Google Fonts: Noto Serif Bengali, Cormorant Garamond, IM Fell English, Cinzel
+#     https://fonts.googleapis.com
+#
+# To run locally, simply open index.html in any modern browser.
+# No package manager, build tool, or server required.
